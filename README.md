@@ -26,3 +26,7 @@ Here, You will See all My Flutter Projects.
 
 - [Destini - An Adventure Game App](https://github.com/SandraGeorge19/Destini_Adventure_Game_Using_Flutter)
 
+
+## Project 6:
+
+- [BMI Calculator App](https://github.com/SandraGeorge19/BMI_Calculator_APP_Using_Flutter)
