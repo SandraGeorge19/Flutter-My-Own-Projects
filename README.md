@@ -34,4 +34,4 @@ Here, You will See all My Flutter Projects.
 
 ## Project 7:
 
-- [Flash Chat App](https://github.com/SandraGeorge19/BMI_Calculator_APP_Using_Flutter)
+- [Flash Chat App](https://github.com/SandraGeorge19/flash_chat)
